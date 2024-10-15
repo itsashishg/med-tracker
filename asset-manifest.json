@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b908b88d.css",
-    "main.js": "/static/js/main.af59ab56.js",
-    "index.html": "/index.html",
-    "main.b908b88d.css.map": "/static/css/main.b908b88d.css.map",
-    "main.af59ab56.js.map": "/static/js/main.af59ab56.js.map"
+    "main.css": "/med-tracker/static/css/main.b908b88d.css",
+    "main.js": "/med-tracker/static/js/main.af59ab56.js",
+    "index.html": "/med-tracker/index.html",
+    "main.b908b88d.css.map": "/med-tracker/static/css/main.b908b88d.css.map",
+    "main.af59ab56.js.map": "/med-tracker/static/js/main.af59ab56.js.map"
   },
   "entrypoints": [
     "static/css/main.b908b88d.css",
